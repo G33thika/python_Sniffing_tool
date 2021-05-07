@@ -186,5 +186,6 @@ while True:
     except ValueError:
         pass
     except KeyboardInterrupt:
+        sock.close()
         print("   exiting....")
         break
