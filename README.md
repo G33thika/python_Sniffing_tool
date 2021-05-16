@@ -1,4 +1,6 @@
 # python_Sniffing_tool
+Filter out and print valuable information from all the packets. Python socket module used to get all packets.
+
 Sniffing tool using python 3
 
 $sudo python3 main.py
